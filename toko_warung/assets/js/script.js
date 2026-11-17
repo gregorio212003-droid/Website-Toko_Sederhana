@@ -1,0 +1,1 @@
+console.log("Website Toko Kita berhasil dimuat.");
